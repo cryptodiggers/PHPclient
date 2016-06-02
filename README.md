@@ -1,5 +1,5 @@
 # PHPclient
-PHP client for CryptoDiggers REST API - digital currency payment gateway
+PHP client for CryptoDiggers REST API - digital currency payment gateway ( https://www.cryptodiggers.eu/api/ )
 
 include_once 'cdp_client.class.php';
 $cdp=new cdp_client(API_KEY');
